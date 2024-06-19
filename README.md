@@ -10,7 +10,7 @@ Nas linhas abaixo adicione o caminho de entrada e saída do seu arquivo aiml.
 - output_file = '/path/to/your/output'
 
 # Requisito
-- python3 e pip git
+- python3, pip, git
 
 # Dependências
 - python3 -m pip install googletrans==3.1.0a0
