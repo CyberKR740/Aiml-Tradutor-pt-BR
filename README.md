@@ -18,5 +18,5 @@ Nas linhas abaixo adicione o caminho de entrada e saída do seu arquivo aiml.
 
 # Utilização
 git clone https://github.com/Salowne/Aiml-Tradutor-pt-BR.git
-cd Aiml-Tradutor-pt-BR.git
+- cd Aiml-Tradutor-pt-BR
 $ python3 tradutor_aiml.py
