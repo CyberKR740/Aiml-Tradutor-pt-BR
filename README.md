@@ -2,7 +2,7 @@
 Este programa faz a tradução de um arquivo aiml do inglês para português, com várias funções como pausa e armazenamento de traduções antigas.
 
 # Utilização
-- Edite o programa Aiml-Tradutor
+- Edite o programa Aiml-Tradutor.
 
 Nas linhas abaixo adicione o caminho de entrada e saída do seu arquivo aiml.
 
@@ -13,7 +13,8 @@ Nas linhas abaixo adicione o caminho de entrada e saída do seu arquivo aiml.
 - python3 e pip
 
 # Dependências
-- python3 -m pip install googletrans==3.1.0a0 - python3 -m pip install langdetect
+- python3 -m pip install googletrans==3.1.0a0
+- python3 -m pip install langdetect
 
 # Utilização
 - python3 tradutor_aiml.py
