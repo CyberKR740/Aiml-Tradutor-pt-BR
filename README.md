@@ -17,4 +17,4 @@ Nas linhas abaixo adicione o caminho de entrada e saída do seu arquivo aiml.
 - python3 -m pip install langdetect
 
 # Utilização
-- python3 tradutor_aiml.py
+$ python3 tradutor_aiml.py
