@@ -10,11 +10,13 @@ Nas linhas abaixo adicione o caminho de entrada e saída do seu arquivo aiml.
 - output_file = '/path/to/your/output'
 
 # Requisito
-- python3 e pip
+- python3 e pip git
 
 # Dependências
 - python3 -m pip install googletrans==3.1.0a0
 - python3 -m pip install langdetect
 
 # Utilização
+git clone https://github.com/Salowne/Aiml-Tradutor-pt-BR.git
+cd Aiml-Tradutor-pt-BR.git
 $ python3 tradutor_aiml.py
