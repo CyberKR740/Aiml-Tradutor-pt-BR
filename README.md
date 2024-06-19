@@ -4,6 +4,16 @@ Este programa faz a tradução de um arquivo aiml do inglês para português, co
 # Utilização
 - Edite o programa tradutor_aiml.py
 
-Na linha input_file adicione o caminho para o seu arquivo aiml, e em output_file adicione aonde o arquivo será salvo.
-input_file = '/seu/arquivo/bot.aiml'
-output_file = '/camino/de/saída/bot.aiml'
+Nas linhas abaixo adicione o caminho de entrada e saída do seu arquivo aiml.
+
+input_file = '/path/to/your/bot.aiml'
+output_file = '/path/to/your/output'
+
+# Requisito
+- python3 e pip
+
+# Dependências
+- python3 -m pip install googletrans==3.1.0a0 - python3 -m pip install langdetect
+
+# Utilização
+- python3 tradutor_aiml.py
