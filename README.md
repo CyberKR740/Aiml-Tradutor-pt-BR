@@ -6,8 +6,8 @@ Este programa faz a tradução de um arquivo aiml do inglês para português, co
 
 Nas linhas abaixo adicione o caminho de entrada e saída do seu arquivo aiml.
 
-input_file = '/path/to/your/bot.aiml'
-output_file = '/path/to/your/output'
+- input_file = '/path/to/your/bot.aiml'
+- output_file = '/path/to/your/output'
 
 # Requisito
 - python3 e pip
