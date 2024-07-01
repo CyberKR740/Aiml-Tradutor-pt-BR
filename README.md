@@ -14,7 +14,7 @@ Nas linhas abaixo adicione o caminho de entrada e saída do seu arquivo aiml.
 
 # Dependências
 - python3 -m pip install googletrans==3.1.0a0
-- python3 -m pip install langdetect
+- python3 -m pip install unicodedata
 
 # Utilização
 git clone https://github.com/Salowne/Aiml-Tradutor-pt-BR.git
