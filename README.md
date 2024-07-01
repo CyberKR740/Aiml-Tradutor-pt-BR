@@ -7,7 +7,7 @@ Edite o programa Aiml-Tradutor.
 Nas linhas abaixo adicione o caminho de entrada e saída do seu arquivo aiml.
 
 - input_file = '/path/to/your/bot.aiml'
-- output_file = '/path/to/your/output'
+- output_file = '/path/to/your/output/bot.aiml'
 
 # Requisito
 - python3, pip, git
