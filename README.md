@@ -17,6 +17,6 @@ Nas linhas abaixo adicione o caminho de entrada e saída do seu arquivo aiml.
 - python3 -m pip install unicodedata
 
 # Utilização
-git clone https://github.com/Cyber740X/Aiml-Tradutor-pt-BR.git
+git clone https://github.com/CyberKR740/Aiml-Tradutor-pt-BR.git
 - cd Aiml-Tradutor-pt-BR
 - python3 tradutor_aiml.py
